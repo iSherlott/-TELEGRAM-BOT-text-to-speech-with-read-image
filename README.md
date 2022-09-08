@@ -2,7 +2,7 @@
 
 ## Introdução
 
-<p>Projeto proposto pelo professor <b>Gabiano Passos</b> da faculdade <b>Impacta<b> do curso <b>MBA em BOT Developer & Artificial Intelligence</b>.</p>
+<p>Projeto proposto pelo professor <b>Fabiano Passos</b> da faculdade <b>Impacta<b> do curso <b>MBA em BOT Developer & Artificial Intelligence</b>.</p>
 
 ## Case
 
@@ -25,3 +25,7 @@ text-from-image: 1.1.1,
 text-to-mp3: 1.0.4,
 text-to-speech-js: 1.1.10
 ```
+
+## DEMO
+
+<img src="https://github.com/iSherlott/-TELEGRAM-BOT-text-to-speech-with-read-image/blob/main/WhatsApp%20Image%202022-09-06%20at%2000.37.57.jpeg?raw=true">
